@@ -1,0 +1,26 @@
+{
+  "cssImports": {
+    "D:\\Study Materials\\LearningHub\\Workspace\\Claim Submission System\\claim-submission-system-4\\claim-submission-system\\app\\layout.tsx": [
+      "D:\\Study Materials\\LearningHub\\Workspace\\Claim Submission System\\claim-submission-system-4\\claim-submission-system\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+      "D:\\Study Materials\\LearningHub\\Workspace\\Claim Submission System\\claim-submission-system-4\\claim-submission-system\\app\\globals.css"
+    ]
+  },
+  "cssModules": {
+    "D:\\Study Materials\\LearningHub\\Workspace\\Claim Submission System\\claim-submission-system-4\\claim-submission-system\\app\\manage-claims\\page": [
+      "D:\\Study Materials\\LearningHub\\Workspace\\Claim Submission System\\claim-submission-system-4\\claim-submission-system\\app\\globals.css",
+      "D:\\Study Materials\\LearningHub\\Workspace\\Claim Submission System\\claim-submission-system-4\\claim-submission-system\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ],
+    "D:\\Study Materials\\LearningHub\\Workspace\\Claim Submission System\\claim-submission-system-4\\claim-submission-system\\app\\submit-claim\\page": [
+      "D:\\Study Materials\\LearningHub\\Workspace\\Claim Submission System\\claim-submission-system-4\\claim-submission-system\\app\\globals.css",
+      "D:\\Study Materials\\LearningHub\\Workspace\\Claim Submission System\\claim-submission-system-4\\claim-submission-system\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ],
+    "D:\\Study Materials\\LearningHub\\Workspace\\Claim Submission System\\claim-submission-system-4\\claim-submission-system\\app\\page": [
+      "D:\\Study Materials\\LearningHub\\Workspace\\Claim Submission System\\claim-submission-system-4\\claim-submission-system\\app\\globals.css",
+      "D:\\Study Materials\\LearningHub\\Workspace\\Claim Submission System\\claim-submission-system-4\\claim-submission-system\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ],
+    "D:\\Study Materials\\LearningHub\\Workspace\\Claim Submission System\\claim-submission-system-4\\claim-submission-system\\app\\repair-centers\\page": [
+      "D:\\Study Materials\\LearningHub\\Workspace\\Claim Submission System\\claim-submission-system-4\\claim-submission-system\\app\\globals.css",
+      "D:\\Study Materials\\LearningHub\\Workspace\\Claim Submission System\\claim-submission-system-4\\claim-submission-system\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ]
+  }
+}

@@ -1,0 +1,4 @@
+{
+  "/manage-claims/page": "app/manage-claims/page.js",
+  "/submit-claim/page": "app/submit-claim/page.js"
+}
