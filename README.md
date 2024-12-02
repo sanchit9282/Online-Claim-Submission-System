@@ -28,8 +28,8 @@ This project is an online claim submission system for motor insurance/protection
 
 1. Clone the repository:
 ```
-git clone [https://github.com/your-username/claim-submission-system.git](https://github.com/your-username/claim-submission-system.git)
-cd claim-submission-system
+git clone https://github.com/sanchit9282/Online-Claim-Submission-System.git
+cd Online-Claim-Submission-System
 
 ```
 2. Install dependencies:
